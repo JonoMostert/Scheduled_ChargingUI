@@ -1,0 +1,8 @@
+# Virtual Env
+.venv
+
+# pycache
+__pycache__*
+
+# Other files
+*.pdf
