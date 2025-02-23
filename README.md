@@ -4,7 +4,6 @@ Your challenge is to implement a single screen for this app, namely the charge c
 
 This panel is a little complex, because it needs to:
 1. Show the user when the charge is scheduled to happen
-Axle Tech Exercise: Engineering 2
 2. Allow them to overrule the charge schedule and charge immediately if they
 need to (e.g. they get home and want to go out again in an hour, so they
 need to boost the charging)
